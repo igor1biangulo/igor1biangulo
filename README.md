@@ -28,7 +28,6 @@
   <a href = "mailto:igorbiangulo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  <a href = "https://www.tiktok.com/@guilde_computing"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
- 
- ![Snake animation](https://github.com/igor1biangulo/igor1biangulo/blob/output/github-contribution-grid-snake.svg)
-  
+##
+  ![Snake animation](https://github.com/igor1biangulo/igor1biangulo/blob/output/github-contribution-grid-snake.svg)
 </div>
